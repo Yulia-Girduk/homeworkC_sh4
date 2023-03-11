@@ -1,0 +1,15 @@
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.csproj.AssemblyReference.cache
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.GeneratedMSBuildEditorConfig.editorconfig
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.AssemblyInfoInputs.cache
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.AssemblyInfo.cs
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.csproj.CoreCompileInputs.cache
+F:\courseC_sh\homeworkC_sh4\task25\bin\Debug\net6.0\task25.exe
+F:\courseC_sh\homeworkC_sh4\task25\bin\Debug\net6.0\task25.deps.json
+F:\courseC_sh\homeworkC_sh4\task25\bin\Debug\net6.0\task25.runtimeconfig.json
+F:\courseC_sh\homeworkC_sh4\task25\bin\Debug\net6.0\task25.dll
+F:\courseC_sh\homeworkC_sh4\task25\bin\Debug\net6.0\task25.pdb
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.dll
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\refint\task25.dll
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.pdb
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\task25.genruntimeconfig.cache
+F:\courseC_sh\homeworkC_sh4\task25\obj\Debug\net6.0\ref\task25.dll
